@@ -1,4 +1,4 @@
-![LaunchPad Lab](http://cl.ly/YICr/LPL_Logo.png =305x100 "LaunchPad Lab Logo")
+![LaunchPad Lab](http://cl.ly/YHrd/logo.png "LaunchPad Lab Logo")
 
 # About LaunchPad Lab
 

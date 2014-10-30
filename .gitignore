@@ -5,3 +5,5 @@ tmp/**
 node_modules/
 .sass-cache
 test
+README_Reveal.md
+CONTRIBUTING.md

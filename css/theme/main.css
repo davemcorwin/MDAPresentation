@@ -1,0 +1,18 @@
+.system-diagram .box {
+  border: 2px solid #00ADEF;
+  border-radius: 5px;
+}
+
+.system-diagram .circle {
+  border: 2px solid #00ADEF;
+  border-radius: 20px;
+}
+
+.system-diagram .dashed {
+  border: 2px dashed #00ADEF;
+  border-radius: 5px;
+}
+
+.reveal .row {
+  margin-bottom: 2rem;
+}

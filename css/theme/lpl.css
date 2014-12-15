@@ -11,7 +11,7 @@ body {
   background-color: #FFFFFF; }
 
 .reveal {
-  font-family: "Lato", sans-serif;
+  font-family: "Open Sans", sans-serif;
   font-size: 32px;
   font-weight: normal;
   letter-spacing: -0.02em;
@@ -50,6 +50,10 @@ p.secondary-color {
 
 p {
   font-size: 22px !important; }
+
+.reveal .light--font{
+  font-weight: 400;
+}
 
 /*********************************************
  * LINKS
@@ -159,3 +163,33 @@ html * {
   rendering-intent: auto; }
 
 /*# sourceMappingURL=lpl.css.map */
+
+/*********************************************
+ * TABLES
+ *********************************************/
+ table{ width: 100%; }
+
+ thead{ background-color: #00ADEF; }
+
+ th{
+  color: #FFFFFF !important;
+  font-size: 25px !important;
+  padding: 10px !important;
+ }
+
+ tbody th{
+  background-color: #CCCCCC;
+  color: #959595 !important;
+  font-size: 22px !important;
+  text-transform: uppercase;
+ }
+
+ td{
+  color: #333333;
+  font-size: 22px !important;
+  padding: 10px !important;
+ }
+
+ tr:nth-child(even){
+  background-color: #F1F1F1 !important;
+ }
